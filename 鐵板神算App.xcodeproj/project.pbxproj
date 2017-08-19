@@ -14,6 +14,7 @@
 		191C986D1F4798970077DC15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 191C986B1F4798970077DC15 /* LaunchScreen.storyboard */; };
 		191C98781F4798970077DC15 /* ____AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191C98771F4798970077DC15 /* ____AppTests.swift */; };
 		191C98831F4798970077DC15 /* ____AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191C98821F4798970077DC15 /* ____AppUITests.swift */; };
+		191C98911F479FDF0077DC15 /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191C98901F479FDF0077DC15 /* QuestionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		191C987E1F4798970077DC15 /* 鐵板神算AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "鐵板神算AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		191C98821F4798970077DC15 /* ____AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "____AppUITests.swift"; sourceTree = "<group>"; };
 		191C98841F4798970077DC15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		191C98901F479FDF0077DC15 /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				191C98621F4798970077DC15 /* AppDelegate.swift */,
 				191C98641F4798970077DC15 /* ViewController.swift */,
 				191C98661F4798970077DC15 /* Main.storyboard */,
+				191C98901F479FDF0077DC15 /* QuestionViewController.swift */,
 				191C98691F4798970077DC15 /* Assets.xcassets */,
 				191C986B1F4798970077DC15 /* LaunchScreen.storyboard */,
 				191C986E1F4798970077DC15 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				191C98651F4798970077DC15 /* ViewController.swift in Sources */,
 				191C98631F4798970077DC15 /* AppDelegate.swift in Sources */,
+				191C98911F479FDF0077DC15 /* QuestionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
